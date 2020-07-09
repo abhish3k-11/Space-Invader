@@ -1,2 +1,2 @@
 # Snake_Game
-A pygame based snake game.
+A pygame based small games.
